@@ -1,0 +1,7 @@
+.video {
+  border: 2px solid black;
+}
+
+.stream {
+  transform: rotate(90deg);
+}
